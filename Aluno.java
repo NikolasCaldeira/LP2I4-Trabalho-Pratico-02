@@ -37,6 +37,4 @@ public class Aluno {
 	public void setUuid(UUID uuid1) {
 		uuid = uuid1;
 	}
-	public static void main(String args[]) {
-	}
 }
